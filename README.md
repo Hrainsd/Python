@@ -1,2 +1,2 @@
 # Transformer
-This my Transformer study notes.
+This is my Transformer study notes.
